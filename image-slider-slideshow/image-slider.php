@@ -1,20 +1,20 @@
 <?php
 /*
  Plugin Name: Image Slider Slideshow
- Plugin URI: #
+ Plugin URI:https://testerwp.com/image-slider-slideshow-free-wp-plugin/
  
  Description: Responsive Image Slider plugin is an easy way to create responsive image slider.
  
  Author: wptexture
- Author URI: #
+ Author URI: https://testerwp.com/
  
- Version: 1.8
+ Version: 1.9
  Text Domain: img-slider
 */
 /** Configuration **/
 
 if ( !defined( 'IMG_SLIDER_CURRENT_VERSION' ) ) {
-    define( 'IMG_SLIDER_CURRENT_VERSION', '1.8' );
+    define( 'IMG_SLIDER_CURRENT_VERSION', '1.9' );
 }
 
 if(!defined( 'SLIDER_SLIDESHOW_PLUGIN_UPGRADE' ) ) {

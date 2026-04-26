@@ -1,10 +1,10 @@
 === Image Slider Slideshow ===
 Contributors: wptexture
-Donate link: #
+Donate link: https://testerwp.com/
 Tags:  Slider, Image slideshow, Slideshow, Photo slider
 Requires at least: 3.5.1
-Tested up to: 6.2
-Stable tag: 1.8
+Tested up to: 6.9
+Stable tag: 1.9
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
